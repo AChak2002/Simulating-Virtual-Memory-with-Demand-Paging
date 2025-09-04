@@ -16,8 +16,8 @@ Install gcc and all the libraries to support multithreading and POSIX in general
 ## Usage
 To run the program, follow the steps below 😊:
 ```bash
-git clone https://github.com/mr-195/OS_Assign8_Virtual_Memory/
-cd OS_Assign8_Virtual_Memory
+git clone https://github.com/AChak2002/Simulating-Virtual-Memory-with-Demand-Paging
+cd Simulating-Virtual-Memory-with-Demand-Paging
 make all
 ```
 This will produce all the executables.
